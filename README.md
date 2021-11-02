@@ -1,5 +1,7 @@
 # CalculadoraCompose
 
+## Mis creditos XD
+
 ## Ojo: El programa valida en base a inputText [225-314]
 * --------------------------------------------------------------------------
 *  inputText = "15x12" -> si encuentra un operador "x" bloquea los operadores toma el primer valor y segundo valor
