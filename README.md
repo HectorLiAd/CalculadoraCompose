@@ -1,7 +1,7 @@
 # CalculadoraCompose
-/*
+
+## Ojo: El programa valida en base a inputText [225-314]
 * --------------------------------------------------------------------------
-* Ojo: El programa valida en base a inputText [225-314]
 *  inputText = "15x12" -> si encuentra un operador "x" bloquea los operadores toma el primer valor y segundo valor
 *  inputText = "15-12" -> si encuentra un operador "-" bloquea los operadores
 *  inputText = "-15-12" -> En este caso este el el blug de la calculadora
